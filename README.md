@@ -3,7 +3,7 @@
   ## I am student , Developer , Coder , Animator & 3d Designer
 - 👀 I’m interested in web development , animations , 3d model building with blendr 3d...
 - 🌱 I’m currently learning html , css , java script , blockchain animation 3d model building...
-- 💞️ I’m looking to collaborate with web developer and animator
+- 💞️ I’m looking to collaborate with web developer and animators
 - 📫 How to reach me ashutoshsinghvns95@gmail.com
 
 <!---
