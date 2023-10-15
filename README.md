@@ -1,13 +1,38 @@
-  #                                                               👋 Hi, I’m Ashutosh Singh
-  
-  ## I am student , Developer , Coder , Animator & 3d Designer :clapper:         :desktop_computer:
-- 👀 I’m interested in web development , animations , 3d model building with blendr 3d...
-- 🌱 I’m currently Working on Reactjs ,  html , css , java script , blockchain , animation 3d model building...   
-- ![This is an image](https://cdn-icons-png.flaticon.com/512/8663/8663423.png)  
-- 💞️ I’m looking to collaborate with web developer and animators
-- 📫 How to reach me :e-mail:  ashutoshsinghvns95@gmail.com
+<h1 align="center">Hi 👋, I'm Ashutosh Singh</h1>
+<h3 align="center">A Human who have code in Veins</h3>
 
-<!---
-ashutosh2720/ashutosh2720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I'm a Student, Coder,and Developer!!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with developers
+- 🥅 2024 Goals: Contribute Open Source projects
+- ⚡ Fun fact: I love to play football
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+
+
+- 📫 How to reach me *ashutoshsinghvns95@gmail.com*
+ 
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashutosh-singh-292b13197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="_nishant" height="30" width="40" /></a>
+
+</p>
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />=
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br />
+<br />
