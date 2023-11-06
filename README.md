@@ -41,7 +41,9 @@
 <!-- Add more languages and tools icons as needed -->
 <br />
 <br />
+<br/>
 
+### GitHub Stats:
 
 |![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh2720&show_icons=true&count_private=true&theme=dark) | <a ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh2720&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -72,7 +74,7 @@
 - [Blog Post 2: Title](blog-post-link): Short description.
 <!-- Add more blog posts with descriptions and links -->
 
-### GitHub Stats:
+
 
 
 
