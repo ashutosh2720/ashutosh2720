@@ -46,6 +46,15 @@
 |![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh2720&show_icons=true&count_private=true&theme=dark) | <a ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh2720&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<br/>
+<br/>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh2720&repo=anix-cart-ecommerce)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+<br />
+
 ### My Projects:
 
 - [Project 1: Project Name](project-link): Brief description.
