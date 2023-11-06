@@ -62,17 +62,5 @@
 <br />
 <br />
 
-### Blog Posts:
 
-- [Blog Post 1: Title](blog-post-link): Short description.
-- [Blog Post 2: Title](blog-post-link): Short description.
-<!-- Add more blog posts with descriptions and links -->
-
-
-
-
-
-### Recent Activity:
-
-![Ashutosh's Recent Activity](https://github.com/anuraghazra/github-readme-stats)
 
