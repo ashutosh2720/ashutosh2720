@@ -1,7 +1,11 @@
 <h1 align="center">Hi there, I'm Ashutosh Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A Human with Code in My Veins</h3>
+<br/>
+
+
 
 ## I'm a Student, Coder, and Developer 🚀
+<img align="right" alt="Coding" width="500" height = "400" src="https://media.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif">
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Contribute to Open Source projects
@@ -9,11 +13,10 @@
 
   
 
+  
+
 
 - 📫 How to reach me: [ashutoshsinghvns95@gmail.com](mailto:ashutoshsinghvns95@gmail.com)
-<p align="right">
-  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAC/coding.gif" alt="Coding Boy" width="200">
-</p>
 
 
 <h3 align="left">Connect with me:</h3>
