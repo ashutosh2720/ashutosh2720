@@ -7,11 +7,14 @@
 - 🥅 2024 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play football ⚽
 
+  
 
 
 - 📫 How to reach me: [ashutoshsinghvns95@gmail.com](mailto:ashutoshsinghvns95@gmail.com)
+<p align="right">
+  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAC/coding.gif" alt="Coding Boy" width="200">
+</p>
 
-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
