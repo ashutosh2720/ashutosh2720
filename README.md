@@ -49,8 +49,13 @@
 <br/>
 <br/>
 
+### Top reposetories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh2720&repo=anix-cart-ecommerce)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh2720&repo=connectin-social-media-app&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh2720&repo=anix-cart-ecommerce&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh2720&repo=universal-recorder&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+
 
 <br />
 <br />
