@@ -6,7 +6,7 @@
 
 ## I'm a Student, Coder, and Developer 🚀
 <img align="right" alt="Coding" width="400" height = "350" src="https://media.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif">
-- 🌱 I’m currently learning everything I can 🤣
+- 🌱 I’m fullstack MERN developer 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play football ⚽
