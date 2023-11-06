@@ -37,11 +37,13 @@
 <img align="left" alt="Node.js" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/ios/50/000000/github--v1.png" />
 <img align="left" alt="Terminal" width="40px" src="https://img.icons8.com/fluent/48/000000/console.png" />
 <!-- Add more languages and tools icons as needed -->
 <br />
 <br />
+
+## most used language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh2720&layout=compact)
 
 ### My Projects:
 
@@ -57,7 +59,7 @@
 
 ### GitHub Stats:
 
-![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh-singh&show_icons=true&count_private=true&theme=dark)
+![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh2720&show_icons=true&count_private=true&theme=dark)
 
 ### Recent Activity:
 
