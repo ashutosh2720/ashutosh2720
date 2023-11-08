@@ -55,7 +55,7 @@
 
 ### GitHub Stats:
 
-|![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh2720&show_icons=true&count_private=true&theme=dark) | <a ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh2720&layout=compact&theme=dark&hide_border=true" /></a> |
+|![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh2720&show_icons=true&count_private=true&theme=dark) | <a ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh2720&layout=compact&theme=dark&border=true" /></a> |
 | ------------- | ------------- |
 
 <br/>
@@ -63,9 +63,9 @@
 
 ### Top reposetories
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh2720&repo=connectin-social-media-app&layout=compact&theme=dark&hide_border=true)](https://github.com/ashutosh2720/connectin-social-media-app) 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh2720&repo=anix-cart-ecommerce&layout=compact&theme=dark&hide_border=true)](https://github.com/ashutosh2720/anix-cart-ecommerce) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh2720&repo=universal-recorder&layout=compact&theme=dark&hide_border=true)](https://github.com/ashutosh2720/universal-recorder)  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh2720&repo=connectin-social-media-app&layout=compact&theme=dark&border=true)](https://github.com/ashutosh2720/connectin-social-media-app) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh2720&repo=anix-cart-ecommerce&layout=compact&theme=dark&border=true)](https://github.com/ashutosh2720/anix-cart-ecommerce) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh2720&repo=universal-recorder&layout=compact&theme=dark&border=true)](https://github.com/ashutosh2720/universal-recorder)  
 
 
 
