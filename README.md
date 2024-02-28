@@ -28,7 +28,7 @@ I am a MERN Stack Developer, Full-Stack Enthusiast, Open Source Contributor <img
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
   </a>
 
-  <a href="https://www.instagram.com/your_username" target="blank">
+  <a href="https://www.instagram.com/ashutosh_3_3" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/FF69B4/instagram-new.png" alt="Instagram" height="40" width="40" />
   </a>
 
