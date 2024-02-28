@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Ashutosh Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A Human with Code in My Veins</h3>
 <br/>
+
 ### 💻 About Me
-I am a MERN Stack Developer, Full-Stack Enthusiast, Open Source Contributor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- I am a MERN Stack Developer, Full-Stack Enthusiast, Open Source Contributor from India.
 - Passionate about leveraging the MERN (MongoDB, Express.js, React, Node.js) stack to craft exceptional web applications that exceed user expectations.
 - Committed to clean code, continuous learning, and effective communication to drive professional growth and project success.
 - Share knowledge through LinkedIn, Twitter and Blogs.
