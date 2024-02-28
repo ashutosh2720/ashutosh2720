@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Ashutosh Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A Human with Code in My Veins</h3>
-<br/>
 
 ### 💻 About Me
 - I am a MERN Stack Developer, Full-Stack Enthusiast, Open Source Contributor from India.
