@@ -7,6 +7,9 @@ I am a MERN Stack Developer, Full-Stack Enthusiast, Open Source Contributor <img
 - Committed to clean code, continuous learning, and effective communication to drive professional growth and project success.
 - Share knowledge through LinkedIn, Twitter and Blogs.
 - 
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ### 🎯 Goals for 2024
 
 - <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" width="200"/>
