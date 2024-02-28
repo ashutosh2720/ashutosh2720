@@ -5,12 +5,17 @@
 
 
 ## I'm a Student, Coder, and Developer 🚀
-<img align="right" alt="Coding" width="400" height = "350" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 - 🌱 I’m fullstack MERN developer 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play football ⚽
+- 
+### 🎯 Goals for 2024
 
+- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" width="200"/>
+- <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" width="150" height="40"/>
   
 
   
@@ -54,14 +59,12 @@
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   </div>
 </div>
+
 <!-- Add more languages and tools icons as needed -->
 <br />
-<br />
-<br/>
-<br/>
-<br/>
 
-### GitHub Stats:
+
+<h2>📈 My Stats</h2>
 
 |![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh2720&show_icons=true&count_private=true&theme=dark) | <a ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh2720&layout=compact&theme=dark&border=true" /></a> |
 | ------------- | ------------- |
