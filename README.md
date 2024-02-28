@@ -1,16 +1,11 @@
 <h1 align="center">Hi there, I'm Ashutosh Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A Human with Code in My Veins</h3>
 <br/>
-
-
-
-## I'm a Student, Coder, and Developer 🚀
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🌱 I’m fullstack MERN developer 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to play football ⚽
+### 💻 About Me
+I am a MERN Stack Developer, Full-Stack Enthusiast, Open Source Contributor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- Passionate about leveraging the MERN (MongoDB, Express.js, React, Node.js) stack to craft exceptional web applications that exceed user expectations.
+- Committed to clean code, continuous learning, and effective communication to drive professional growth and project success.
+- Share knowledge through LinkedIn, Twitter and Blogs.
 - 
 ### 🎯 Goals for 2024
 
